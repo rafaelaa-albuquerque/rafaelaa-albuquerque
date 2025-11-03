@@ -23,11 +23,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelaa-albuquerque&theme=tokyonight" alt="Profile details" />
 </div>
 
-
+<br>
+<br>
 <!-- Skill icons -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,html,css,js,py,matlab,arduino,git,github,githubactions,docker,postman,linux" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,html,css,js,py,matlab,arduino,git,githubactions,docker,postman,linux" alt="Skills" />
   </a>
 </p>
 
