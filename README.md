@@ -1,10 +1,10 @@
 ## Oiee! Eu sou a Rafaela Albuquerque 😺
 
-- 🫠 Tenho 25 anos
-- 🫠 São Paulo - SP
-- 🫠 Sou uma desenvolvedora full stack com foco em front-end
-- 🫠 Tenho 3,5 anos de experiência profissional em desenvolvimento web
-- 🫠 Minha língua nativa é o português, mas falo inglês avançado e espanhol em nível intermediário
+- Tenho 25 anos
+- São Paulo - SP
+- Sou uma desenvolvedora full stack com foco em front-end
+- Tenho 3,5 anos de experiência profissional em desenvolvimento web
+- Minha língua nativa é o português, mas falo inglês avançado e espanhol em nível intermediário
 - <a href="https://www.linkedin.com/in/rafaela-de-albuquerque/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
