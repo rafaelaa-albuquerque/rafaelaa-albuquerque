@@ -27,7 +27,7 @@
 <br>
 <!-- Skill icons -->
 <p>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,html,css,js,py,matlab,arduino,git,githubactions,docker,postman,linux" alt="Skills" />
   </a>
 </p>
