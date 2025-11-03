@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=header" alt="header" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<a>
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=250&color=F715CC&multiline=true&width=500&height=100&lines=Hi+there!;I'm+Rafaela+Albuquerque%2C+a+Software+Engineer.++;Welcome+to+my+repository!" alt="Typing SVG" />
 </a>
 
